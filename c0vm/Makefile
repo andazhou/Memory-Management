@@ -1,7 +1,4 @@
 CC=gcc
-# Note: if you're not working on Andrew AFS, change this to the root
-# of your own C0 installation (this is /Users/rjsimmon/r/c0/cc0 on my
-# system -rjs)
 C0TOP=/andazhou/Documents/Github/c0vm
 C0LIBDIR=$(C0TOP)/lib
 C0RUNTIMEDIR=$(C0TOP)/runtime
